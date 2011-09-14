@@ -11,6 +11,7 @@ License:	GPLv3+
 Group:		File tools
 Url:		https://launchpad.net/utimer
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	glib2.0-devel
 
 %description
 µTimer ("utimer", pronounced "micro-timer") is a multifunction timer
