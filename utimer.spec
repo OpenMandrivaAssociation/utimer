@@ -38,3 +38,10 @@ stopwatch.
 %doc AUTHORS ChangeLog NEWS README 
 %_bindir/utimer
 %_mandir/man1/utimer.*
+
+
+%changelog
+* Wed Sep 14 2011 Lev Givon <lev@mandriva.org> 0.4-1mdv2011.0
++ Revision: 699725
+- imported package utimer
+
