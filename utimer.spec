@@ -1,6 +1,6 @@
 %define name	utimer
 %define version 0.4
-%define release %mkrel 1
+%define release 2
 
 Summary:	Multifunction command-line timer
 Name:		%{name}
