@@ -11,6 +11,11 @@ License:	GPLv3+
 Group:		File tools
 Url:		https://launchpad.net/utimer
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	glib2-devel, intltool
 
 %description
